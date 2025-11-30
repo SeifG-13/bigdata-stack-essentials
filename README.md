@@ -255,12 +255,6 @@ Les contributions sont les bienvenues ! N'hésitez pas à :
 
 ---
 
-## 📄 Licence
-
-Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
-
----
-
 <div align="center">
 
 **Bonne chance pour ton entretien ! 🚀**
